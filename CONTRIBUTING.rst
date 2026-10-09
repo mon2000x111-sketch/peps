@@ -1,4 +1,4 @@
-Contributing Guidelines
+ Contributing Guidelines
 =======================
 
 To learn more about the purpose of PEPs and how to go about writing one, please
